@@ -1,0 +1,6 @@
+def main():
+    print('My first git program!')
+#New day — new print
+
+if __name__ == '__main__':
+    main()
